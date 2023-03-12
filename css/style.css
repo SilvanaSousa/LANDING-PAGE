@@ -26,6 +26,14 @@ html,body{
 }
 
 
+.menu, a{
+	float: right;
+	color: aliceblue;
+	padding: 10px;
+	
+
+}
+
 
 .header{
 	width: 100%;
